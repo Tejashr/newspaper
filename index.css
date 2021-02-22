@@ -1,0 +1,14 @@
+.head{
+    font-weight: bold;
+    font-size: 1.5vmax;
+    text-align: justify;
+}
+.data{
+    font-size: 1.2vmax;
+    text-align: justify;
+}
+.tag{
+    background-color:maroon;
+     color: white; 
+    font-weight: bold;
+}
